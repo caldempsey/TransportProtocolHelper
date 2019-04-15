@@ -1,4 +1,4 @@
-# AWSLambdaTransport
+# TransportProtocolHelper
 
 Helper library for end to end communication using different application layer protocols (HTTP, Websocket .etc.).
 
