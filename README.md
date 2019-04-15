@@ -12,3 +12,5 @@ provide mock http and websocket responses
 provide some https stuff
 
 ehh
+
+maybe do some cool casting stuff
