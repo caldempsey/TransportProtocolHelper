@@ -1,6 +1,6 @@
 # AWSLambdaTransport
 
-Helper library for working with Go and AWS Lambda HTTP.
+Helper library for end to end communication using different application layer protocols (HTTP, Websocket .etc.).
 
 Examples might be for AWS lambda but could be sufficient for a broader use case.
 
